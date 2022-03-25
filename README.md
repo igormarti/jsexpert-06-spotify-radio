@@ -1,8 +1,6 @@
 # Spotify Radio - Semana JS Expert 6.0
 
-Seja bem vindo(a) à sexta Semana Javascript Expert. Este é o código inicial para iniciar nossa jornada.
-
-Marque esse projeto com uma estrela 🌟
+Esse projeto foi desenvolvido na semana JS Expert 6.0  do desenvolvedor Erick Wendel, foi um projeto incrível, onde aprendi vários conceitos e coloquei-os em prática.
 
 ## Preview
 
